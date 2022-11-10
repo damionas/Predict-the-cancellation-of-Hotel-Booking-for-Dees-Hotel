@@ -26,6 +26,7 @@ The aim is to develop a model to predict if an hotel booking done by a customer 
 
 
       2. How much do guests pay for a room per night?
-![newplot](https://user-images.githubusercontent.com/64482231/200975928-aa481835-3449-4738-86be-5f7fc2984490.png)
+![image](https://user-images.githubusercontent.com/64482231/200976085-01c95d73-30b7-4fa2-94ea-bae54ee23e5c.png)
+
 
 Hotel room G category is performing extremely well because here the median value is extremely high
