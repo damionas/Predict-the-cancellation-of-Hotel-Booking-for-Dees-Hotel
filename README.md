@@ -53,4 +53,5 @@ Hotel room G category is performing extremely well because here the median value
 
                         SelectED important Features using Co-relation & univariate analysis..
                         
-                        
+![image](https://user-images.githubusercontent.com/64482231/201002480-7f59a9b5-6191-4934-ab85-10f23dafbaa0.png)
+                      
