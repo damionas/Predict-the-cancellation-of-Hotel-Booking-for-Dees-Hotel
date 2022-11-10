@@ -5,7 +5,8 @@ The aim is to develop a model to predict if an hotel booking done by a customer 
       Problem Statements:
           1.  Where do the guests come from ?
           2.  How much do guests pay for a room per night?
-          3.  
+          3.  Analyse whether bookings were made only for weekdays or for weekends or for both ??
+          
           
 
 
