@@ -4,8 +4,8 @@ The aim is to develop a model to predict if an hotel booking done by a customer 
 
       Problem Statements:
           1.  Where do the guests come from ?
-          2.  Prices of Hotels across year
-          3. 
+          2.  How much do guests pay for a room per night?
+          3.  
           
 
 
