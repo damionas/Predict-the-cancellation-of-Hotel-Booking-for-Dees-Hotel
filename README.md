@@ -31,3 +31,9 @@ The aim is to develop a model to predict if an hotel booking done by a customer 
 
 
 Hotel room G category is performing extremely well because here the median value is extremely high
+
+      3. Lets analyse whether bookings were made only for weekdays or for weekends or for both ??
+      
+![image](https://user-images.githubusercontent.com/64482231/200992039-3611dfd3-bd68-49bb-a174-0461b89c9a1e.png)
+
+
