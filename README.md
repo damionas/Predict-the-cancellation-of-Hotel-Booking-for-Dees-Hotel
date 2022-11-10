@@ -48,3 +48,6 @@ Hotel room G category is performing extremely well because here the median value
 
 ![image](https://user-images.githubusercontent.com/64482231/201001786-cdf2a95d-c972-4b11-884d-1f9fed48a6b6.png)
 
+![image](https://user-images.githubusercontent.com/64482231/201001991-0bdbb284-7916-4149-a460-26dafe72e332.png)
+
+
